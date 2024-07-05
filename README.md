@@ -1,18 +1,28 @@
 # Satish Vidyapathy
 
-_Looking for Product/ Program / Delivery Management roles | AI ML | GenAI | Cloud | Digital Transformation | Crafting solutions for real-world challenges | SaaS, B2B, B2C_ <br>
+# Looking for Product/Program/Delivery Management roles
+
+## Expertise
+- AI/ML
+- GenAI
+- Cloud
+- Digital Transformation
+
+## Focus
+- Crafting solutions for real-world challenges
+- SaaS, B2B, B2C
 
 [Email](mailto:satish.vidyapathy@gmail.com) / [LinkedIn]([https://www.linkedin.com/in/carolstran](https://www.linkedin.com/in/satishvidyapathy/) / [GitHub](https://github.com/satv99/) / [Twitter](https://x.com/v_satish/) 
 
 ##  Profile - About Me
-•  Successfully developed AI products for Healthcare & Lifescience – clinicalwave.ai
-•  Expertise in diverse industries including BFSI/Fintech, eCommerce /Retail/CPG, Healthcare, OTT/ Media
-•  Expertise in defining product vision and strategy, and driving innovation in portfolio, program and product development processes
-•  Zero to 1 Super App launch: TATA Neu and Prudential Healthcare Super App – wedopulse.com
-•  Strong background in technical product management, program/delivery management, solutioning, consulting and pre-sales
-•  Proficient in Agile methodologies, SAFe, PMP
-•  Proven track record of managing CXO/leadership-level relationships and expectations.
-•  Experienced in budgeting /financial management, market analysis, and identifying growth opportunities
+•  Successfully developed AI products for Healthcare & Lifescience – clinicalwave.ai <br>
+•  Expertise in diverse industries including BFSI/Fintech, eCommerce /Retail/CPG, Healthcare, OTT/ Media <br>
+•  Expertise in defining product vision and strategy, and driving innovation in portfolio, program and product development processes <br>
+•  Zero to 1 Super App launch: TATA Neu and Prudential Healthcare Super App – wedopulse.com <br>
+•  Strong background in technical product management, program/delivery management, solutioning, consulting and pre-sales <br>
+•  Proficient in Agile methodologies, SAFe, PMP <br>
+•  Proven track record of managing CXO/leadership-level relationships and expectations <br>
+•  Experienced in budgeting /financial management, market analysis, and identifying growth opportunities <br>
 
 
 ##  Summary
