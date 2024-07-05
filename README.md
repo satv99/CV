@@ -2,7 +2,7 @@
 
 _Looking for Product/ Program / Delivery Management roles | AI ML | GenAI | Cloud | Digital Transformation | Crafting solutions for real-world challenges | SaaS, B2B, B2C_ <br>
 
-[Email](mailto:satish.vidyapathy@gmail.com) / [LinkedIn]([https://www.linkedin.com/in/carolstran](https://www.linkedin.com/in/satishvidyapathy/) / [GitHub](https://github.com/satv99/) / [Twitter]([https://twitter.com/carolstran](https://x.com/v_satish/) 
+[Email](mailto:satish.vidyapathy@gmail.com) / [LinkedIn]([https://www.linkedin.com/in/carolstran](https://www.linkedin.com/in/satishvidyapathy/) / [GitHub](https://github.com/satv99/) / [Twitter](https://x.com/v_satish/) 
 
 ##  Profile - About Me
 •  Successfully developed AI products for Healthcare & Lifescience – clinicalwave.ai
