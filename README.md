@@ -30,7 +30,7 @@ Seasoned IT professional with 18+ years of experience in digital transformation,
 
 ##  Expereince
 **Director - Product Management** @ [Cloudbyz Inc](https://Cloudbyz.com/) _(Jan 2023 - May 20205)_ <br>
-Cloudbyz builds cloud-based SaaS products (built on Salesforce) designed to store and manage clinical data effectively throughout a clinical trial's life cycle. Cloudbyz Product suite includes CTMS, CTBM, eTMF, EDC, ePRO/eCOA, Safety & PV and Clinicalwave.ai
+Cloudbyz builds cloud-based SaaS products (built on Salesforce) designed to store and manage clinical data effectively throughout a clinical trial's life cycle. Cloudbyz Product suite includes CTMS, CTBM, eTMF, EDC, ePRO/eCOA, Safety & PV and [Clinicalwave.ai](https://Clinicalwave.ai/) 
 
   - Successfully developed and launched AI based suite of products (clinicalwave.ai) to automate data redaction (PHI,PII, sensitive data) and extraction from clinical documents and DICOMs. The products are developed using human in the loop (HLP) approach with high level (80%) of accuracy and consistency <br>
   - Developed and lunched Cloudbyz Pharmacovigilance product with MedDRA and WHODrug Coding, Case Intake, E2B R2 reporting etc <br>
@@ -43,6 +43,7 @@ Cloudbyz builds cloud-based SaaS products (built on Salesforce) designed to stor
   - Align and Execute Product Strategy with end-to-end product lifecycle from concept to adoption, including requirements with 
     prioritized features, corresponding justification, and success metrics – OKRs <br>
   - Growth Marketing and Pre-sales Support: Solutioning, Demos, GTM, Marketing collaterals, Webinars, blogs <br>
+  - **_Technologies used:_** Salesforce, Tabelau, AWS, AWS Bedrock/ Sage Maker, Python, React, OpenAI API  
    
 **Chief Product Officer** @ [Muvi Inc](https://Muvi.com/) _(May 2022 - Oct 2022)_ <br>
 Muvi is an all-in-one OTT SaaS Platform provider which allows you to launch White Label Multi-Device OTT streaming & Video Streaming Platforms, offering Video on Demand (VOD), Live Streaming, Monetization, CDN, DRM
@@ -58,5 +59,6 @@ Muvi is an all-in-one OTT SaaS Platform provider which allows you to launch Whit
    differentiation, competitive assessments, MVPs, go-to-market strategy, pricing, testing etc <br>
 -  Good experience with Information Architecture, UX/ UI, Wireframes, Interaction Design <br>
 
-  - **_Technologies used:_** AWS, CSS, React, TypeScript, Gatsby, GraphQL.
+  - **_Technologies used:_** AWS, CSS, React, Kafka, CDN, Python, Node.js, Java, MySQL, Progressive Web Apps, Swift (iOS), Kotlin (Android)
+    
 <br><br>
