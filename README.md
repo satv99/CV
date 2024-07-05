@@ -29,7 +29,7 @@
 Seasoned IT professional with 18+ years of experience in digital transformation, successfully delivering programs and products across diverse domains including AI/ML product development, super app development, eCommerce, financial services, and healthcare. Adept at bridging the gap between technical teams and business objectives, ensuring seamless collaboration and product success. Proven expertise in leveraging the latest AI technologies. Expertise in SAFe Agile methodologies and UI/UX design, ensuring both efficient processes and user-centric solutions
 
 ##  Expereince
-**Director - Product Management** @ [BRYTER](https://Cloudbyz.com/) _(Jan 2023 - May 20205)_ <br>
+**Director - Product Management** @ [Cloudbyz Inc](https://Cloudbyz.com/) _(Jan 2023 - May 20205)_ <br>
 Cloudbyz builds cloud-based SaaS products (built on Salesforce) designed to store and manage clinical data effectively throughout a clinical trial's life cycle. Cloudbyz Product suite includes CTMS, CTBM, eTMF, EDC, ePRO/eCOA, Safety & PV and Clinicalwave.ai
 
   - Successfully developed and launched AI based suite of products (clinicalwave.ai) to automate data redaction (PHI,PII, sensitive data) and extraction from clinical documents and DICOMs. The products are developed using human in the loop (HLP) approach with high level (80%) of accuracy and consistency
@@ -44,10 +44,18 @@ Cloudbyz builds cloud-based SaaS products (built on Salesforce) designed to stor
     prioritized features, corresponding justification, and success metrics – OKRs
   - Growth Marketing and Pre-sales Support: Solutioning, Demos, GTM, Marketing collaterals, Webinars, blogs
    
-**Google Season of Docs 2020 | Technical Writer** @ [GraphQL Foundation](https://foundation.graphql.org/) _(Aug 2020 - Jan 2021)_ <br>
-[Google Season of Docs](https://developers.google.com/season-of-docs/docs/participants) is a program matching experienced technical writers with open source organizations.
-  - Created a [Frequently Asked Questions (FAQ) resource](https://graphql.org/faq/) for graphql.org, including all the content and page functionality
-  - Triaged issues and reviewed pull requests to the [GraphQL website](https://github.com/graphql/graphql.github.io/)
-  - Wrote [internal documentation](https://github.com/graphql/graphql.github.io/blob/source/CONTRIBUTING.md) to improve the contributing experience
-  - **_Technologies used:_** CSS, React, TypeScript, Gatsby, GraphQL.
+**Chief Product Officer** @ [Muvi Inc](https://Muvi.com/) _(May 2022 - Oct 2022)_ <br>
+Muvi is an all-in-one OTT SaaS Platform provider which allows you to launch White Label Multi-Device OTT streaming & Video Streaming Platforms, offering Video on Demand (VOD), Live Streaming, Monetization, CDN, DRM
+-  Drive Product vision, strategy, innovation in portfolio and product development  process
+-  Monitor, communicate, and address market trends, opportunities, and competitor strategies
+-  Work with cross-functional team members to ensure that products are positioned properly in the market by overseeing the commercial 
+   deployment of marketing plans, and messaging
+-  Recruit, build and mentor great teams of product managers, developers, and UX designers
+-  Leverage technical expertise and experience to provide direction, troubleshoot problems and be a natural authority for the team on 
+   any technical or product related matters
+-  Strong understanding of all facets of making a product successful in market – market analysis, product-market fit, positioning & 
+   differentiation, competitive assessments, MVPs, go-to-market strategy, pricing, testing etc
+-  Good experience with Information Architecture, UX/ UI, Wireframes, Interaction Design
+
+  - **_Technologies used:_** AWS, CSS, React, TypeScript, Gatsby, GraphQL.
 <br><br>
