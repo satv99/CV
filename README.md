@@ -46,6 +46,7 @@ Cloudbyz builds cloud-based SaaS products (built on Salesforce) designed to stor
    
 **Chief Product Officer** @ [Muvi Inc](https://Muvi.com/) _(May 2022 - Oct 2022)_ <br>
 Muvi is an all-in-one OTT SaaS Platform provider which allows you to launch White Label Multi-Device OTT streaming & Video Streaming Platforms, offering Video on Demand (VOD), Live Streaming, Monetization, CDN, DRM
+
 -  Drive Product vision, strategy, innovation in portfolio and product development  process <br>
 -  Monitor, communicate, and address market trends, opportunities, and competitor strategies <br>
 -  Work with cross-functional team members to ensure that products are positioned properly in the market by overseeing the commercial 
