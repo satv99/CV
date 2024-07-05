@@ -1,10 +1,23 @@
-# Carolyn Stransky
+# Satish Vidyapathy
 
-_Software engineer and journalist based in Berlin 🇩🇪_ <br>
+_Looking for Product/ Program / Delivery Management roles | AI ML | GenAI | Cloud | Digital Transformation | Crafting solutions for real-world challenges | SaaS, B2B, B2C_ <br>
 
-[Email](mailto:hello@workwithcarolyn.com) / [Website](https://workwithcarolyn.com/) / [LinkedIn](https://www.linkedin.com/in/carolstran/) / [GitHub](https://github.com/carolstran/) / [Twitter](https://twitter.com/carolstran/) / [DEV](https://dev.to/carolstran/)
+[Email](mailto:satish.vidyapathy@gmail.com) / [LinkedIn]([https://www.linkedin.com/in/carolstran](https://www.linkedin.com/in/satishvidyapathy/) / [GitHub](https://github.com/satv99/) / [Twitter]([https://twitter.com/carolstran](https://x.com/v_satish/) 
 
-## 👩🏼‍💻 Engineering Experience
+##  Profile - About Me
+•  Successfully developed AI products for Healthcare & Lifescience – clinicalwave.ai
+•  Expertise in diverse industries including BFSI/Fintech, eCommerce /Retail/CPG, Healthcare, OTT/ Media
+•  Expertise in defining product vision and strategy, and driving innovation in portfolio, program and product development processes
+•  Zero to 1 Super App launch: TATA Neu and Prudential Healthcare Super App – wedopulse.com
+•  Strong background in technical product management, program/delivery management, solutioning, consulting and pre-sales
+•  Proficient in Agile methodologies, SAFe, PMP
+•  Proven track record of managing CXO/leadership-level relationships and expectations.
+•  Experienced in budgeting /financial management, market analysis, and identifying growth opportunities
+
+
+##  Summary
+Seasoned IT professional with 18+ years of experience in digital transformation, successfully delivering programs and products across diverse domains including AI/ML product development, super app development, eCommerce, financial services, and healthcare. Adept at bridging the gap between technical teams and business objectives, ensuring seamless collaboration and product success. Proven expertise in leveraging the latest AI technologies. Expertise in SAFe Agile methodologies and UI/UX design, ensuring both efficient processes and user-centric solutions
+
 
 **Frontend Engineer** @ [BRYTER](https://bryter.com/) _(Dec 2020 - Present)_ <br>
 No-code platform that enables professionals to build interactive applications.
