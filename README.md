@@ -219,7 +219,6 @@ Responsibilities included:
 **Reference**
 -  Available on request
 
-<br><br>
 **Volunteer**
 - People+AI
 - Beckn Collective
