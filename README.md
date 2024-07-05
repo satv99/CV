@@ -43,12 +43,13 @@ Cloudbyz builds cloud-based SaaS products (built on Salesforce) designed to stor
   - Align and Execute Product Strategy with end-to-end product lifecycle from concept to adoption, including requirements with 
     prioritized features, corresponding justification, and success metrics – OKRs <br>
   - Growth Marketing and Pre-sales Support: Solutioning, Demos, GTM, Marketing collaterals, Webinars, blogs <br>
-  - **_Technologies used:_** Salesforce, Tabelau, AWS, AWS Bedrock/ Sage Maker, Python, React, OpenAI API  
+  - **_Technologies used:_** Salesforce, Tabelau, AWS, AWS Bedrock/ Sage Maker, Python, React, OpenAI API
+  - **_Certification:_** HIPAA and GCP
    
 **Chief Product Officer** @ [Muvi Inc](https://Muvi.com/) _(May 2022 - Oct 2022)_ <br>
 Muvi is an all-in-one OTT SaaS Platform provider which allows you to launch White Label Multi-Device OTT streaming & Video Streaming Platforms, offering Video on Demand (VOD), Live Streaming, Monetization, CDN, DRM
 
--  Drive Product vision, strategy, innovation in portfolio and product development  process <br>
+-  Drive Product vision, strategy, pricing and innovation in portfolio and product development  process <br>
 -  Monitor, communicate, and address market trends, opportunities, and competitor strategies <br>
 -  Work with cross-functional team members to ensure that products are positioned properly in the market by overseeing the commercial 
    deployment of marketing plans, and messaging <br>
@@ -58,7 +59,56 @@ Muvi is an all-in-one OTT SaaS Platform provider which allows you to launch Whit
 -  Strong understanding of all facets of making a product successful in market – market analysis, product-market fit, positioning & 
    differentiation, competitive assessments, MVPs, go-to-market strategy, pricing, testing etc <br>
 -  Good experience with Information Architecture, UX/ UI, Wireframes, Interaction Design <br>
+- **_Technologies used:_** AWS, CSS, React, Kafka, CDN, Python, Node.js, Java, MySQL, Progressive Web Apps, Swift (iOS), Kotlin (Android)
 
-  - **_Technologies used:_** AWS, CSS, React, Kafka, CDN, Python, Node.js, Java, MySQL, Progressive Web Apps, Swift (iOS), Kotlin (Android)
-    
+**Product Management and Engineering** @ [TATA Digital](https://tatdigital.com/) _(May 2021 - Jan 2022)_ <br>
+Product Strategy, Development, Delivery and Launch
+Built E-com Super App and Progressive Web App – TATA Neu  
+Work closely with functional leadership for scoping, prioritization, planning, managing development and activation of digital integration to drive customer experience, brand awareness, marketing effectiveness and commercial intensity
+
+-  Multiple brand/ domain integration – Financial Services, Payments, Insurance, Rewards (TATA Neu Coins) Retails, Groceries, Apparel & Lifestyle, Travel and Hotels, Entertainment, Electronics and gadgets, Health, beauty & wellness, Fulfilment, Logistics, Social commerce, Campaign set up, Analytics, Security & performance
+- Product launch – strategy, planning, define requirement, deployment, scaling and vendor management 
+- Growth hacking strategies, including data-driven user acquisition, retention initiatives, and leveraging viral loops to drive exponential app growth
+Team size ~ 200 across pro development, devops/ SRE and testing 
+- **_Technologies used:_** Progressive Web Apps, React Native, Flutter, Swift (iOS), Kotlin (Android), Azure Cloud, Adobe AEM, Akamai CDN, Microservices, Azure Devops, Kubernetes, Docker, Jenkins, SonarCube, ServiceNow, Jira
+  
+**Program  Director: eCommerce Digital and Analytics** @ [Mindtree](https://www.ltimindtree.com/) _(Dec 2020 - May 2021)_ <br>
+Managed Digital Transfrmations projects  across eCommerce/ Digital Marketing/Loyalty for a large athletic and apparel brand
+Worked with architecture team on applications specifically on open stack, java microservices based architectures built on Cloud Infra 
+Built Digital Platforms on Salesforce (SFMC, SFCC and SFSC) which helped in standardizing, reducing time to market and reducing operational costs with enhanced ease of maintainability
+- **_Technologies used:_** Salesforce Marketing Cloud, Salesforce Commerce Cloud, Salesforce Service Cloud
+- **_Award Recognition:_** Adidas Account: Delivery Excellence for rapidly scaling up delivery team to meet customer expectations
+
+**Sr Program Manager: Prudential Pulse: Insurance Healthcare Super App Development** @ Accolite Digital _(Dec 2019 - Dec 2020)_ <br>
+Program Management & Product Development:  Conceptualization, Agile solutioning, feature prioritization, customer user experience implementation for large transformation project to build an AI Powered digital health care mobile app ‘Prudential Pulse’ serving 9 South Asian countries. 
+The app offers 24/7 health and wellness service to users such as AI powered health assessment – Integrated Digital Twin from Babylon Health), wearables integration, symptom checker, tele consultation, tele medicine, sales and administration of insurance policies for Covid-19, cancer & other illness, hospital and clinic discovery, ecommerce & payment gateway integration, rewards and loyalty points and many more features. The product also integrated 
+seamlessly with Insurance products: underwriting and pricing system, policy admin & servicing system, claims 
+management, marketing & sales system 
+Leveraged growth hacking techniques by implementing user journey and interaction tracking through web/mobile analytics, conducting A/B testing, executing digital marketing campaigns, and designing customer loyalty reward programs to drive app promotion and user engagement 
+- **_Technologies used:_** AWS, CSS, React, Kafka, Node.js, Java, MySQL, Progressive Web Apps, Swift (iOS), Kotlin (Android
+
+**Sr Manager** @ [Societe Generale Global Solution Centre](https://www.societegenerale.com/) _(Jul 2016 - Nov 2019)_ <br>
+Lead cross functional teams across geographies (technology, operations, legal, etc.) to deliver key global projects for the Bank 
+Accountable for delivery digital transformation projects in big data, test automation, continuous delivery (CD), DevOps, development (CTB, RTB) & production support in Global Transaction & Payment Services Unit through roll out of global tools 
+
+- Partnered with portfolio and program leadership to adopt SAFe practices across various SocGen business units.
+- Vision and leadership for existing and emerging product and application technologies through an understanding of customer and business needs 
+- Coordinate and communicate architecture and implementation and deliver solution based upon a client’s individual needs
+- Chaired project Steering committee and Operation committee 
+- **_Technologies used:_** .Net, Java, AWS, Big Data, Devops, Selenium, SAFe Agile, TDD, BDD 
+
+**Sr Project Manager** @ [HCL Technologies](https://www.hcltech.com/) _(Aug 2004 - Jul 2016)_ <br>
+Worked across the globe in multiple roles across Delivery management, Product Development, Pre-sales and Solutioning, and Consulting/ Advisory functions primarily focused on driving Digital Transformation in various Industries mainly Retail/ CPG, BFSI and Capital Markets for large clients like Deutsche Bank, Nasdaq OMX, Yildiz Group, Royal Bank of Scotland, Relx/ Reed Elsevier etc
+
+    *Program Management - Deutsche Bank* _(Feb 2016 - Jul 2016)_ <br>
+    Build a Data Management, DWH, Reporting & Analytics platform for Asset & Wealth Management group of the bank
+    Role: Assisted on putting together business cases for the sales team to support HCL proposal, proposal defense, led customer-facing     technical discussion, assisted in setting up a BOT model working along with project sponsor and other stake holders – delivery,         legal, recruitment, finance, admin and facility management
+    - **_Technologies used:_** .Java, J2ee, Hadoop, Spark, SAP Hana, Informatica, MATLAB
+
+
+**Module Lead** @ [Wipro Technologies](https://www.wipro.com/) _(Jun 2002 - Aug 2004)_ <br>
+- Managed the design, development, configuration, execution and delivery of quality solutions for various modules for Marsh Insurance project
+ **_Technologies used:_** Java, Spring 
+
+
 <br><br>
