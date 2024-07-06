@@ -9,7 +9,7 @@
 - Crafting solutions for real-world challenges
   
 
-[Email](mailto:satish.vidyapathy@gmail.com) / [LinkedIn](https://www.linkedin.com/in/satishvidyapathy/) / [GitHub](https://github.com/satv99/) / [Twitter](https://x.com/v_satish/) 
+[Email:satish.vidyapathy@gmail.com](mailto:satish.vidyapathy@gmail.com) / [LinkedIn](https://www.linkedin.com/in/satishvidyapathy/) / [GitHub](https://github.com/satv99/) / [Twitter](https://x.com/v_satish/) 
 
 ##  Profile - About Me
 Seasoned IT professional with 18+ years of experience in digital transformation, successfully delivering programs and products across diverse domains including AI/ML product development, super app development, eCommerce, financial services, and healthcare. Adept at bridging the gap between technical teams and business objectives, ensuring seamless collaboration and product success. Proven expertise in leveraging the latest AI technologies. Expertise in SAFe Agile methodologies and UI/UX design, ensuring both efficient processes and user-centric solutions
