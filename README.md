@@ -26,7 +26,7 @@ Seasoned IT professional with 18+ years of experience in digital transformation,
 
 ##  Expereince
 
-**Director - Product Management** @ [**Cloudbyz Inc**] (https://Cloudbyz.com/) _(Jan 2023 - May 20205)_ <br>
+**Director - Product Management** @ [**Cloudbyz Inc**](https://cloudbyz.com) _(Jan 2023 - May 20205)_ <br>
 Cloudbyz builds cloud-based SaaS products (built on Salesforce) designed to store and manage clinical data effectively throughout a clinical trial's life cycle. Cloudbyz Product suite includes CTMS, CTBM, eTMF, EDC, ePRO/eCOA, Safety & PV and [Clinicalwave.ai](https://Clinicalwave.ai/) 
 
   - Successfully developed and launched AI based suite of products (clinicalwave.ai) to automate data redaction (PHI,PII, sensitive data) and extraction from clinical documents and DICOMs. The products are developed using human in the loop (HLP) approach with high level (80%) of accuracy and consistency <br>
