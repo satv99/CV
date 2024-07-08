@@ -43,7 +43,7 @@ Cloudbyz builds cloud-based SaaS products (built on Salesforce) designed to stor
   - **_Technologies used:_** Salesforce, Tabelau, AWS, AWS Bedrock/ Sage Maker, Python, React, OpenAI API
   - **_Certification:_** HIPAA and GCP
    
-**Chief Product Officer** @ [Muvi Inc](https://Muvi.com/) _(May 2022 - Oct 2022)_ <br>
+**Chief Product Officer** @ [**Muvi Inc**](https://Muvi.com/) _(May 2022 - Oct 2022)_ <br>
 Muvi is an all-in-one OTT SaaS Platform provider which allows you to launch White Label Multi-Device OTT streaming & Video Streaming Platforms, offering Video on Demand (VOD), Live Streaming, Monetization, CDN, DRM
 
 -  Drive Product vision, strategy, pricing and innovation in portfolio and product development  process <br>
@@ -58,7 +58,7 @@ Muvi is an all-in-one OTT SaaS Platform provider which allows you to launch Whit
 -  Good experience with Information Architecture, UX/ UI, Wireframes, Interaction Design <br>
 - **_Technologies used:_** AWS, CSS, React, Kafka, CDN, Python, Node.js, Java, MySQL, Progressive Web Apps, Swift (iOS), Kotlin (Android)
 
-**Product Management and Engineering** @ [TATA Digital](https://tatdigital.com/) _(May 2021 - Jan 2022)_ <br>
+**Product Management and Engineering** @ [**TATA Digital**](https://tatdigital.com/) _(May 2021 - Jan 2022)_ <br>
 Product Strategy, Development, Delivery and Launch
 Built E-com Super App and Progressive Web App – TATA Neu  
 Work closely with functional leadership for scoping, prioritization, planning, managing development and activation of digital integration to drive customer experience, brand awareness, marketing effectiveness and commercial intensity
@@ -69,14 +69,14 @@ Work closely with functional leadership for scoping, prioritization, planning, m
 Team size ~ 200 across pro development, devops/ SRE and testing 
 - **_Technologies used:_** Progressive Web Apps, React Native, Flutter, Swift (iOS), Kotlin (Android), Azure Cloud, Adobe AEM, Akamai CDN, Microservices, Azure Devops, Kubernetes, Docker, Jenkins, SonarCube, ServiceNow, Jira
   
-**Program  Director: eCommerce Digital and Analytics** @ [Mindtree](https://www.ltimindtree.com/) _(Dec 2020 - May 2021)_ <br>
+**Program  Director: eCommerce Digital and Analytics** @ [**Mindtree**](https://www.ltimindtree.com/) _(Dec 2020 - May 2021)_ <br>
 Managed Digital Transfrmations projects  across eCommerce/ Digital Marketing/Loyalty for a large athletic and apparel brand
 Worked with architecture team on applications specifically on open stack, java microservices based architectures built on Cloud Infra 
 Built Digital Platforms on Salesforce (SFMC, SFCC and SFSC) which helped in standardizing, reducing time to market and reducing operational costs with enhanced ease of maintainability
 - **_Technologies used:_** Salesforce Marketing Cloud, Salesforce Commerce Cloud, Salesforce Service Cloud
 - **_Award Recognition:_** Adidas Account: Delivery Excellence for rapidly scaling up delivery team to meet customer expectations
 
-**Sr Program Manager: Prudential Pulse: Insurance Healthcare Super App Development** @ Accolite Digital _(Dec 2019 - Dec 2020)_ <br>
+**Sr Program Manager: Prudential Pulse: Insurance Healthcare Super App Development** @ **Accolite Digital** _(Dec 2019 - Dec 2020)_ <br>
 Program Management & Product Development:  Conceptualization, Agile solutioning, feature prioritization, customer user experience implementation for large transformation project to build an AI Powered digital health care mobile app ‘Prudential Pulse’ serving 9 South Asian countries. 
 The app offers 24/7 health and wellness service to users such as AI powered health assessment – Integrated Digital Twin from Babylon Health), wearables integration, symptom checker, tele consultation, tele medicine, sales and administration of insurance policies for Covid-19, cancer & other illness, hospital and clinic discovery, ecommerce & payment gateway integration, rewards and loyalty points and many more features. The product also integrated 
 seamlessly with Insurance products: underwriting and pricing system, policy admin & servicing system, claims 
@@ -84,7 +84,7 @@ management, marketing & sales system
 Leveraged growth hacking techniques by implementing user journey and interaction tracking through web/mobile analytics, conducting A/B testing, executing digital marketing campaigns, and designing customer loyalty reward programs to drive app promotion and user engagement 
 - **_Technologies used:_** AWS, CSS, React, Kafka, Node.js, Java, MySQL, Progressive Web Apps, Swift (iOS), Kotlin (Android
 
-**Sr Manager** @ [Societe Generale Global Solution Centre](https://www.societegenerale.com/) _(Jul 2016 - Nov 2019)_ <br>
+**Sr Manager** @ [**Societe Generale Global Solution Centre**](https://www.societegenerale.com/) _(Jul 2016 - Nov 2019)_ <br>
 Lead cross functional teams across geographies (technology, operations, legal, etc.) to deliver key global projects for the Bank 
 Accountable for delivery digital transformation projects in big data, test automation, continuous delivery (CD), DevOps, development (CTB, RTB) & production support in Global Transaction & Payment Services Unit through roll out of global tools 
 
@@ -94,7 +94,7 @@ Accountable for delivery digital transformation projects in big data, test autom
 - Chaired project Steering committee and Operation committee 
 - **_Technologies used:_** .Net, Java, AWS, Big Data, Devops, Selenium, SAFe Agile, TDD, BDD 
 
-**Sr Project Manager** @ [HCL Technologies](https://www.hcltech.com/) _(Aug 2004 - Jul 2016)_ <br>
+**Sr Project Manager** @ [**HCL Technologies**](https://www.hcltech.com/) _(Aug 2004 - Jul 2016)_ <br>
 Worked across the globe in multiple roles across Delivery management, Product Development, Pre-sales and Solutioning, and Consulting/ Advisory functions primarily focused on driving Digital Transformation in various Industries mainly Retail/ CPG, BFSI and Capital Markets for large clients like Deutsche Bank, Nasdaq OMX, Yildiz Group, Royal Bank of Scotland, Relx/ Reed Elsevier etc
 
   **Program Management - Deutsche Bank** <br>
@@ -184,7 +184,7 @@ Business impact analysis for one of the largest data center outsourcing deal in 
   - Worked with DB business Units and NDC Business Coordinators to ensure that interests of business units were addressed appropriately 
     and in a consistent manner
 
-**Bid Management/ Pre-Sales** Location: Bangalore _(Aug 2004 - Jul 2005)_ <br>
+**Bid Management/ Pre-Sales** Location: Bangalore  <br>
 HCL Capital Markets, Business Solutions Group (BSG)
 Developed and managed sales opportunities from concept to commission including qualification, proposals, final selection, due diligence and closing.
 Responsibilities included:
@@ -203,7 +203,7 @@ Responsibilities included:
   - Identification of Industry trends, Validation of trends, Creation of Go To Market Strategy and
     Business case for partnerships and alliances
     
-**Module Lead** @ [Wipro Technologies](https://www.wipro.com/) _(Jun 2002 - Aug 2004)_ <br>
+**Module Lead** @ [**Wipro Technologies**](https://www.wipro.com/) _(Jun 2002 - Aug 2004)_ <br>
 - Managed the design, development, configuration, execution and delivery of quality solutions for various modules for Marsh Insurance project
  **_Technologies used:_** Java, Spring 
 
