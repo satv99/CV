@@ -97,7 +97,7 @@ Accountable for delivery digital transformation projects in big data, test autom
 **Sr Project Manager** @ [HCL Technologies](https://www.hcltech.com/) _(Aug 2004 - Jul 2016)_ <br>
 Worked across the globe in multiple roles across Delivery management, Product Development, Pre-sales and Solutioning, and Consulting/ Advisory functions primarily focused on driving Digital Transformation in various Industries mainly Retail/ CPG, BFSI and Capital Markets for large clients like Deutsche Bank, Nasdaq OMX, Yildiz Group, Royal Bank of Scotland, Relx/ Reed Elsevier etc
 
-  **Program Management - Deutsche Bank** _(Feb 2016 - Jul 2016)_ <br>
+  **Program Management - Deutsche Bank** <br>
   Build a Data Management, DWH, Reporting & Analytics platform for Asset & Wealth Management group of the bank
   Role: Assisted on putting together business cases for the sales team to support HCL proposal, proposal defense, led customer-facing     technical discussion, assisted in setting up a BOT model working along with project sponsor and other stake holders – delivery,         legal, recruitment, finance, admin and facility management
   - **_Technologies used:_** .Java, J2ee, Hadoop, Spark, SAP Hana, Informatica, MATLAB
@@ -105,7 +105,7 @@ Worked across the globe in multiple roles across Delivery management, Product De
   **Program Management - Digital Analytics Framework**
 Led a strategic initiative to build a digital transformation framework/ point solution which incorporates business analytics – social analytics, web/ ecommerce analytics, finance analytics and mobile analytics using Big Data Tech Stack, Micro Strategy and Magneto. Developed PoC for Africa’s largest retailer - Shoprite Group of Companies
 
- **Program Management - Yildiz Holding** Location: Bangalore & Istanbul  _(Jan 2015 - Jul 2016)_ <br>
+ **Program Management - Yildiz Holding** Location: Bangalore & Istanbul <br>
 - Project Management & Consulting for a large Digital Transformation program for one of the largest CPG & Retail group in Europe & 
   Middle East headquartered in Istanbul- Turkey, with more than 65 companies exporting 160 brands and 2,700 products to 110 countries 
   and revenues of $ 9.1 Billion USD
@@ -114,14 +114,14 @@ Led a strategic initiative to build a digital transformation framework/ point so
 - Engaged senior client relationships in digital advisory capacity to grow revenue and drive new opportunities
 - **_Technologies used:_** SAP Hana, Informatica MDM, Informatica PIM, Magento
 
- **Program Management - FRES, UK** _(Jun 2014 - Dec 2014)_ <br>
+ **Program Management - FRES, UK** <br>
  - Program Management for a large enterprise transformation program for UK’s leading FX service provider
  - The aim of the transformational programs was to carry out strategic architecture refresh (Technology. Operations and 
    Infrastructure) which involved building a business intelligence and data warehouse environment along with data migration from legacy 
    systems and integrating with a new responsive website and mobile application
  - **_Technologies used:_** Microsoft SSRS & SSIS, Microsoft Site Core, Mobile web app development
 
-**Account Management - Reed Elsevier/RELX, UK** Location: London  _(Oct 2013 - May 2014)_ <br>
+**Account Management - Reed Elsevier/RELX, UK** Location: London <br>
 Program Management for a large enterprise transformation program at Reed Exhibitions - a large FTSE-100 company in Media, Publishing and Information Sector
  - Provide advisory services to improve key processes as well as technology services to optimize & transform systems that support 
   clients core business
@@ -130,7 +130,7 @@ Program Management for a large enterprise transformation program at Reed Exhibit
  - **_Technologies used:_** Oracle MDM, Oracle DRM, Oracle DRG, Oracle business suite/ Oracle Cloud Commerce,
    Salesforce
    
-**Program Manager - Royal Bank of Scotland** Location: London  _(Jun 2012 - Sep 2013)_ <br>
+**Program Manager - Royal Bank of Scotland** Location: London <br>
 Program Manager for Payment Protection Insurance (PPI) program at Royal Bank of Scotland. The project focused on handling customer remediation and redressal due to financial product misspelling with a view to build an ethical banking model based on predictive analytics
 Worked closely with cross functional team (data analytics and customer strategy, risk and compliance, back office operations) in a multi-vendor environment (FSA, KPMG and other local UK IT vendors) to ensure successful execution of program
   - Defined project scope, goals, governance and deliverables that support business goals in collaboration with senior management and       stakeholders
@@ -138,7 +138,7 @@ Worked closely with cross functional team (data analytics and customer strategy,
     financial products
   - Tech Stack: Informatica ETL & Informatica MDM, Teradata DataWarehouse
 
-**Business Development Manager: HCL Financial Services** Location: London  _(Jan 2011 - May 2012)_ <br>
+**Business Development Manager: HCL Financial Services** Location: London  <br>
   - Account Manager for two large accounts (P2P &O2C) – Xafinity Paymaster and RMG
   - Worked closely with delivery & support functions to ensure successful execution of projects and identified
     avenues for engagement expansion and new revenue opportunities
@@ -146,7 +146,7 @@ Worked closely with cross functional team (data analytics and customer strategy,
   - Forge strong working relationships with Partners to collaboratively serve the needs of existing or potential
   clients
 
-**Business Manager - Product Management**   _(Jan 2008 - Dec 2010)_ <br>
+**Business Manager - Product Management** Location: Bangalore <br>
 HCL FS Product Engineering Group (Penstock) builds new age technology products and assets for Capital Markets in the area of Security Processing - Clearing and Settlements, Securities Lending and Borrowing, Corporate Actions, Trade Capture, Risk & Portfolio Performance (credit & market risk) solutions and Information Integration Platform (Master Data Management) using enterprise technologies such as IBM InfoSphere Data Stage & Quality Stage, IBM Cognos TM1, Gemstone Gemfire for CEP
 
   - Led product planning process for products within the Capital Markets product portfolio. Outline and rationalize key goals, go to 
@@ -160,7 +160,7 @@ HCL FS Product Engineering Group (Penstock) builds new age technology products a
   - Conducted competitive intelligence and market analysis by liaising with various regulators, industry
     associations, analyst and research firms to keep a tab on the evolving business context, develop fresh perspective
 
-**Product Consultant**   _(Jun 2007 - Dec 2007)_ <br>
+**Product Consultant**  Location: Stockholm <br>
 MiFID Product Sales & Marketing with partners Nasdaq-OMX, Stockholm -Sweden
 
   - Worked with Nasdaq- OMX for MiFID Consulting and Sales team across Europe. This involved MiFID
@@ -169,12 +169,12 @@ MiFID Product Sales & Marketing with partners Nasdaq-OMX, Stockholm -Sweden
   - Responsible for onsite program coordination for FS product development (Best Executions and
     Securities Processing System)
 
-**Sr Business Analyst**   _(Dec 2005 - May 2007)_ <br>
+**Sr Business Analyst** Location: Bangalore & Stockholm  <br>
 Worked as a Sr Business Analyst for the following products:
 Requirement gathering, prototyping, defining scope of work and assisted in solution development for HCL’s MiFID (Markets in Financial Instruments Directive) solution - TradeXek
 Participated in development of master data standards, processes and strategies based on best practices for HCL’s Master Data Management: XekData
 
-**Business Impact Analysis – Deutsche Bank** Location: Frankfurt  _(Aug 2005 - Nov 2005)_ <br>
+**Business Impact Analysis – Deutsche Bank** Location: Frankfurt <br>
 Business impact analysis for one of the largest data center outsourcing deal in Continental Europe involving transfer of Deutsche Bank’s (DB) IT infrastructure and server in Germany, Italy and Spain to IBM data centers in Germany
   - Prepared BIA report for Critical Business Systems involved in the mainframe and midrange move. Conducted BIA workshop for DB 
     Business and IT managers
@@ -184,7 +184,7 @@ Business impact analysis for one of the largest data center outsourcing deal in 
   - Worked with DB business Units and NDC Business Coordinators to ensure that interests of business units were addressed appropriately 
     and in a consistent manner
 
-**Bid Management/ Pre-Sales**  _(Aug 2004 - Jul 2005)_ <br>
+**Bid Management/ Pre-Sales** Location: Bangalore _(Aug 2004 - Jul 2005)_ <br>
 HCL Capital Markets, Business Solutions Group (BSG)
 Developed and managed sales opportunities from concept to commission including qualification, proposals, final selection, due diligence and closing.
 Responsibilities included:
