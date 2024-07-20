@@ -70,9 +70,10 @@ Team size ~ 200 across pro development, devops/ SRE and testing
 - **_Technologies used:_** Progressive Web Apps, React Native, Flutter, Swift (iOS), Kotlin (Android), Azure Cloud, Adobe AEM, Akamai CDN, Microservices, Azure Devops, Kubernetes, Docker, Jenkins, SonarCube, ServiceNow, Jira
   
 **Program  Director: eCommerce Digital and Analytics** @ [**Mindtree**](https://www.ltimindtree.com/) _(Dec 2020 - May 2021)_ <br>
-Managed Digital Transfrmations projects  across eCommerce/ Digital Marketing/Loyalty for a large athletic and apparel brand
-Worked with architecture team on applications specifically on open stack, java microservices based architectures built on Cloud Infra 
-Built Digital Platforms on Salesforce (SFMC, SFCC and SFSC) which helped in standardizing, reducing time to market and reducing operational costs with enhanced ease of maintainability
+- Managed Digital Transfrmations projects  across eCommerce/ Digital Marketing/Loyalty for a large athletic and apparel brand
+- Worked with architecture team on applications specifically on open stack, java microservices based architectures built on Cloud Infra 
+- Built Digital Platforms on Salesforce (SFMC, SFCC and SFSC) which helped in standardizing, reducing time to market and reducing operational costs with enhanced ease of 
+  maintainability
 - **_Technologies used:_** Salesforce Marketing Cloud, Salesforce Commerce Cloud, Salesforce Service Cloud
 - **_Award Recognition:_** Adidas Account: Delivery Excellence for rapidly scaling up delivery team to meet customer expectations
 
