@@ -83,7 +83,7 @@ The app offers 24/7 health and wellness service to users such as AI powered heal
 seamlessly with Insurance products: underwriting and pricing system, policy admin & servicing system, claims 
 management, marketing & sales system 
 Leveraged growth hacking techniques by implementing user journey and interaction tracking through web/mobile analytics, conducting A/B testing, executing digital marketing campaigns, and designing customer loyalty reward programs to drive app promotion and user engagement 
-- **_Technologies used:_** AWS, CSS, React, Kafka, Node.js, Java, MySQL, Progressive Web Apps, Swift (iOS), Kotlin (Android
+- **_Technologies used:_** AWS, CSS, React, Kafka, Node.js, Java, MySQL, Progressive Web Apps, Swift (iOS), Kotlin (Android)
 
 **Sr Manager** @ [**Societe Generale Global Solution Centre**](https://www.societegenerale.com/) _(Jul 2016 - Nov 2019)_ <br>
 Lead cross functional teams across geographies (technology, operations, legal, etc.) to deliver key global projects for the Bank 
@@ -134,7 +134,7 @@ Program Management for a large enterprise transformation program at Reed Exhibit
 **Program Manager - Royal Bank of Scotland** Location: London <br>
 Program Manager for Payment Protection Insurance (PPI) program at Royal Bank of Scotland. The project focused on handling customer remediation and redressal due to financial product misspelling with a view to build an ethical banking model based on predictive analytics
 Worked closely with cross functional team (data analytics and customer strategy, risk and compliance, back office operations) in a multi-vendor environment (FSA, KPMG and other local UK IT vendors) to ensure successful execution of program
-  - Defined project scope, goals, governance and deliverables that support business goals in collaboration with senior management and       stakeholders
+  - Defined project scope, goals, governance and deliverables that support business goals in collaboration with senior management and stakeholders
   - Lead implementations to improve AML/KYC processes and controls, with key areas of focus on controls associated with various 
     financial products
   - Tech Stack: Informatica ETL & Informatica MDM, Teradata DataWarehouse
